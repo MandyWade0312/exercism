@@ -1,6 +1,5 @@
 class HelloWorld
   def self.hello
-    #Initial
-    "Hello, World!"
+    "Hello, World, my name is Mandy!"
   end
 end
